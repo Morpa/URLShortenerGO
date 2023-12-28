@@ -22,3 +22,4 @@ go.work
 
 rss_aggregator
 .env
+db-data
